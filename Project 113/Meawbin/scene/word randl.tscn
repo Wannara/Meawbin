@@ -1,0 +1,20 @@
+[gd_scene load_steps=2 format=2]
+
+[sub_resource type="GDScript" id=1]
+script/source = "extends Label
+
+var word = [\"แอปเปิ้ล\",\"ส้ม\"]
+var i = int(rand_range(0.0,2.0))
+var word_r = word[i]
+# Called when the node enters the scene tree for the first time.
+
+# Called every frame. 'delta' is the elapsed time since the previous frame.
+#func _process(delta):
+#	pass
+"
+
+[node name="Label" type="Label"]
+margin_right = 40.0
+margin_bottom = 14.0
+script = SubResource( 1 )
+

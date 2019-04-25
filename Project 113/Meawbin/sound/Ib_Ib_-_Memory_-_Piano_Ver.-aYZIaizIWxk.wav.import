@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Ib_Ib_-_Memory_-_Piano_Ver.-aYZIaizIWxk.wav-93647d27b1d657c356884ccd27955694.sample"
+
+[deps]
+
+source_file="res://sound/Ib_Ib_-_Memory_-_Piano_Ver.-aYZIaizIWxk.wav"
+dest_files=[ "res://.import/Ib_Ib_-_Memory_-_Piano_Ver.-aYZIaizIWxk.wav-93647d27b1d657c356884ccd27955694.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
