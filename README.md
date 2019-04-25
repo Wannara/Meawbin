@@ -1,7 +1,9 @@
 # Meawbin
 Project Process Computer Principles 113
 
-Our group has made games about vocabulary to make it easier to practice language and practice using the keyboard.
+Our group has made games about vocabulary to make 
+
+it easier to practice language and practice using the keyboard.
 
 The program that uses Godot engine development.
 
