@@ -7,7 +7,7 @@ it easier to practice language and practice using the keyboard.
 
 The program that uses Godot engine development.
 
-made by
+created by
 
 Wannarat    Boonwong        student ID : 600510125
 
